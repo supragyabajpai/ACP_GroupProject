@@ -1,0 +1,449 @@
+Company,Job_title,location,tags,industry,description,url
+Top Hat,Data Architect,"['Toronto, ON, Canada']","['B2B', 'Education', 'SaaS', 'Software']","['Education', 'Information Technology', 'Software']","We are actively searching for a highly competent, experienced, and hands-on Data Architect to join our data team. In this role, you will play a crucial part in designing, optimizing, and implementing conceptual and logical data models. Your responsibilities will include analyzing requirements, designing consistent database schemas, modelling data lake structures, implementing data migration strategies, driving data ownership policy, and ensuring the efficient and secure storage and querying of company information. Proficiency in SQL and NoSQL is essential. Experience with data visualization tools is highly desirable. This is an exceptional opportunity to contribute to the development of our data architecture and make a significant impact to the success of our organization. Join us and be a key driver of our data-driven initiatives.You will:  Analyze requirements and translate them to conceptual and logical data models for our applications and the data warehouse. Optimize and/or perform migration on existing database systems. Improve system performance by conducting tests, troubleshooting and integrating new elements. Develop and maintain a data dictionary and metadata management strategy. Develop and maintain data governance policies, procedures, and standards to ensure the integrity and accuracy of the data. Coordinate with the Data Science and Revenue Operation teams to identify future needs and requirements. Provide operational support for downstream business units. You are:  5 years of experience with data modelling in an agile work environment. Profess in multiple modeling techniques. In-depth understanding of database storage principles. Alignment with a culture of experimentation and A/B testing. Experience gathering and analyzing product requirements. Knowledge of data mining and segmentation techniques. Expertise in SQL and NoSQL. Familiarity with big data systems like Hadoop, Spark and dbt. Familiarity with database management systems like PostgreSQL, MongoDB, and Cassandra. Familiarity with data visualization tools. Proven analytical skills. Problem-solving attitude. Comfortable with agile practices. Possesses an experimentation mindset. BSc in Computer Science or relevant field. Nice to have:  Experience with Learning Management Systems (LMS) or other EdTech platforms. Experience with AWS, Azure, or Google Cloud Platform. Experience with data security and compliance, including GDPR and CCPA. Experience working with offshore data engineering teams. Why team members love working at Top Hat :  *A noble mission that creates meaningful, fulfilling work  *A team that cares deeply for customers and for each other  *We’re a company of invested owners - every Top Hatter receives stock options  *Professional learning and development for all role levels  *An awesome and welcoming Toronto HQ, and a growing sales hub in Austin, Texas  *Competitive health benefits that start on day one  *A management team focused on performance, growth, engagement and connection  *Our winning strategy and market potential  *Innovative PTO policy with lots of time and space for self-care  *Passionate customers that believe in us—and what we do",https://www1.communitech.ca/companies/top-hat/jobs/30802243-data-architect#content
+Plooto,Senior Data Engineer,"['Toronto, ON, Canada']","['10-49', 'B2B', 'C100 alumni', 'Finance', 'Oneeleven', 'SaaS', 'Software']","['Finance', 'Software']","We are currently able to hire full time in the following Canada locations: Ontario, British Columbia, Nova Scotia. If you are located outside of these Provinces, you can still be considered as an applicant but the position will be on a contract basis. About Plooto 82% of small businesses fail due to poor management of cash flow. Our vision is to enable the advancement of Small and Medium-sized Businesses (SMBs) by developing the tools & insights they need to maximize their cash flow. Over 9,000 businesses and their finance teams trust Plooto to automate their financial processes so they can focus on reaching their true potential. The Role As a Senior Data Engineer, you’ll help us in the upgrade of our Data Platform. Currently, the data engineering team has built a Plooto Data Platform on Azure, leveraging Azure Data Factory to create data integrating pipelines as well as Spark to create ETL jobs. The Data Platform and the built data products/models support our obsession with data-driven decision-making. The ideal candidate is an experienced ETL pipeline builder and data wrangler who enjoys building and optimizing data systems. You will work with the existing data engineers, business analysts, software engineers, and other internal stakeholders on data initiatives and will ensure optimal data delivery throughout ongoing projects. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives. Candidates must be self-directed and comfortable supporting the data needs of multiple teams, systems, and products.What You’ll Do  Architect and implement data products and ETL pipelines for internal reporting (embedded reporting, dashboarding, insights) in the medium term, and for machine learning (insights to recommendations) in the long term. Establish a comprehensive Data Warehouse by creating robust ingestion pipelines using Azure Data Factory and developing resilient streaming pipelines with Kafka and Flinks for real-time event processing. Partner with the Product Manager, analytics, and business teams to review and gather the data/reporting/analytics requirements and build trusted and scalable data models, data extraction processes, and data applications to help answer complex questions. Build high volume, distributed, and scalable data platform capabilities and microservices to create efficient and scalable data solutions to enable data access by applications via API. Utilize and advance continuous integration and deployment frameworks. Work with architecture & engineering leads to ensure quality solutions are implemented and engineering standard methodologies adhered to. Your Background  10+ years of data engineering in a B2B/B2C data-driven environment.  Experience in designing, building, and optimizing complex data pipelines, ETL processes, and data integration solutions. Strong knowledge of big data technologies such as DataBricks, Hadoop, Spark, and Kafka, as well as expertise in distributed data processing frameworks. Hands-on experience with cloud platforms like AWS, Azure, or Google Cloud, including knowledge of cloud-based data services (e.g., AWS Glue, Azure Data Factory, Google Cloud Dataflow). Knowledge of real-time data processing using technologies like Apache Kafka, Apache Flink, or similar streaming frameworks. Proficiency in SQL and experience with various database systems (SQL Server, PostgreSQL, NoSQL databases) for data modeling, optimization, and management. Proficiency in programming languages commonly used in data engineering, such as Python, Java, Scala, or similar languages. Strong understanding of data warehousing concepts, data modeling techniques (star, snowflake schemas), and experience with data warehousing solutions (e.g., Redshift, Snowflake). Understanding of data governance practices, data lineage, data privacy, and the ability to implement security measures for data handling. Bonus Points  Experienced with Airflow or other job scheduling systems. Experience with building Restful APIs and containerizing them. Contributions to open-source data projects Distributed systems design/implementation experiences. Why Become a Plootonian? If you are looking to make a professional impact, look no further. Plooto is currently in hyper-growth mode, looking to 10x our customer base. Plooto is dramatically changing the payments space in North America. We have delivered an unrivaled product experience to fulfill a growing need in the SMB space. The biggest reason why SMBs close their doors is due to poor management of finances and cash flow. Plooto solves that problem! We have an extremely strong product-market fit with a massive opportunity ahead of us. We are backed by an experienced and diverse group of FinTech veterans. You will have the opportunity to make history and change the course of this sector for many years to come. Join Plooto and be a part of making history.",https://www1.communitech.ca/companies/plooto/jobs/30400013-senior-data-engineer#content
+Dataperformers,"Senior Consultant, Risk and Regulatory Consulting (Risk Data and Analytics Capability) 1","['Toronto, ON, Canada']","['AI/ML', 'B2B', 'Media & entertainment', 'SaaS', 'Software']","['DeepTech', 'Finance', 'Information Technology', 'Software']","Job Type: Permanent 
+Reference code: 124755   
+Primary Location: Toronto, ON  
+All Available Locations: Toronto, ON; Calgary, AB; Edmonton, AB; Ottawa, ON; Vancouver, BC 
+
+ 
+Our Purpose
+ 
+At Deloitte, we are driven to inspire and help our people, organization, communities, and country to thrive. Our Purpose is to build a better future by accelerating and expanding access to knowledge. Purpose defines who we are and gives us reason to exist as an organization.
+By living our Purpose, we will make an impact that matters.
+
+Have many careers in one Firm.
+Experience a firm where wellness matters.
+Experience MyFlex where reduced hours or seasonal work allows you to meet your personal goals.
+
+
+
+
+
+
+
+
+
+
+What will your typical day look like?
+
+
+Our  mission is to use data and analytics to deliver value for our clients. Our team understands exactly how data underpins a business and how improving the management, use and insight from this data improves performance and reduces risk. We also help clients manage the new risks and safely leverage artificial intelligence and machine learning. For this role, we are seeking Senior Consultants who will help deliver on our ambitious plans to grow our practice. 
+We combine our people's skills and experience, with Deloitte tools and solutions, across four focus capability areas across the end-to-end Risk Spectrum. 
+•    Risk Data Strategy & Architecture  
+•    Risk Data Modelling & Engineering 
+•    Risk Data Analytics, Reporting & Insights
+•    Risk Data Governance & Management 
+The successful candidate will have responsibility to: 
+•    Support our clients to grow responsibly through the use of applied data and analytics.
+•    Support the industry leadership in growing our risk analytics business.
+•    Support the establishment of a repeatable analytical models and approaches for clients.
+•    Work with other Deloitte functions to further the use of data & analytics in go to market activities.
+•    Enhance the value of our deliverables and the insights provided by our work.
+•    Support in reviews of data and date use for regulatory compliance and process and control effectiveness
+•    Work with existing clients to design and develop programs for data and analytics.
+
+
+
+
+About the team
+
+
+We are the one of the largest Risk Advisory practices in Canada. Our Data and Analytics team is a key capability within Risk Advisory. We are a growing team with initiatives across multiple industries and use cases. We support organizations with all aspects of data and analytics related to risk management. We aim to bring recognized value to each engagement; be it setting up a program to deliver on long term strategic objectives or solutioning for tactical needs under demanding timelines. We have extensive experience that we draw upon daily and are always looking to the future and innovative solutions and opportunities. 
+
+
+
+
+Enough about us, let’s talk about you
+
+
+In this role, the expected qualifications are:
+•    Exceptional planning, organization, project and people management skills.
+•    Exceptional communication, presentation, business writing and professional skills, including being able to liaise with both technical and business contacts at our clients.
+•    4+ years of experience in Financial Services Industry in a consulting or industry capacity
+•    4+ years of experience in Risk and Regulatory Compliance areas in a consulting or industry capacity
+•    4+ years of experience in delivering a broad range of data analytics engagements in areas such as, Experience in delivering a broad range of data analytics engagements in areas such as, Data Strategy, Data Architecture, Data Migration, Data Analytics, Data Governance and Data Quality.
+•    4+ years of experience in applying Data Analytics, ML/AI and/or other insights approaches to deliver business value
+•    4+ years of experience in working with analytical, visualization and data engineering capabilities
+•    4+ years of experience in working with cloud capabilities is an asset
+•    Ability to synthesize large amounts of information to produce clear, concise, and logical presentations and reports
+•    Ability to work in a fast paced and demanding environment, both independently and in a team setting 
+•    Ability to establish priorities and meet challenging deadlines
+•    Curiosity and comfortability with ambiguity
+•    Undergraduate or Graduate Degree in relevant field; relevant professional qualification is an asset
+•    Willingness/flexibility of traveling to client locations, as required
+
+
+
+ 
+Our promise to our people: Deloitte is where potential comes to life.
+ 
+Be yourself, and more.
+We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.
+You shape how we make impact.
+Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute. Be the leader you want to be.
+Be the leader you want to be 
+Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.
+Have as many careers as you want.
+We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors. Our TVP is about relationships – between leaders and their people, the firm and its people, peers, and within in our communities.
+
+The next step is yours
+ 
+At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan, Reconciliation Action Plan and the BlackNorth Initiative.
+We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations). We’d love to hear from you!
+By applying to this job you will be assessed against the Deloitte Global Talent Standards. We’ve designed these standards to provide our clients with a consistent and exceptional Deloitte experience globally.
+Deloitte Canada has 30 offices with representation across most of the country. We acknowledge our offices reside on traditional, treaty and unceded territories as part of Turtle Island and is still home to many First Nations, Métis, and Inuit peoples. We are all Treaty people.",https://www1.communitech.ca/companies/dataperformers/jobs/30270688-senior-consultant-risk-and-regulatory-consulting-risk-data-and-analytics-capability-1#content
+Interac,Data Governance Senior Specialist,"['Toronto, ON, Canada']",[],['Finance'],"Data Governance Senior SpecialistAt Interac, we design and deliver products and solutions that give Canadians control over their money so they can get more out of life. But that’s not all. Whether we’re leading real-time money movement, driving innovative commerce solutions like open payments for transit systems, or making advancements in new areas like verification and open banking, we are playing a key role in shaping the future of the digital economy in Canada.Want to make a lasting impact amongst a community of creative thinkers, problem solvers, technical gurus and high-performance application developers? We want to hear from you.You’ll be responsible for:  Develops metrics and KPIs to monitor data governance compliance as well as reporting to gauge the health and maturity of the data governance program In collaboration with subject matter experts and data stewards, defines and implements data governance policies, standards and to ensure enterprise data is accurate, complete, secure, and reliable. Supports metadata management activities for data and models (AI/ML) ensuring that critical data and models are identified, classified and recorded in the Enterprise Metadata Management Tool (Alation) Supports the maintenance of data lineage, data dictionary and data catalog for the Analytics Environment Improves data quality management through collaboration with key stakeholders (data stewards, technical custodians) and expediting the resolution of data quality issues through the appropriate choice of error detection and correction, process control and improvement, or process design strategies. Supports data retention activities and ensures that legal and reputational risks are mitigated through appropriate controls Supports data management and model risk management activities ensuring that frameworks and roadmaps are implemented and executed Effectively manages change and communication including data governance principles and processes to data community You bring:  University Degree (preferred in Business Administration, Engineering or Information Management) Must be eligible to work for Interac Corp. in Canada in a Full Time Capacity 3-5 years of formal Data Management, Data Governance, Risk or Compliance experience Experience in using a data management tool like Alation, Informatica, Collibra Highly proficient with Microsoft Excel and MS Office Strong analytical skills and well-developed critical thinking Ability to adapt to change and to detect and respond to evolving business needs Quick learner with curiosity and motivation for continues learning Strong communication skills with the ability to articulate technical issues clearly and concisely to a non-technical audience Proactive and result-oriented approach with the ability to initiate change and take ownership Must be detail oriented and highly organized Understands the factors influencing our business and can integrate the various competing needs to ensure success for their group. Approach problems from a business perspective Generates new ideas, challenges the status quo, takes risks, supports change, encourages innovation, solves problems creatively Ability to work in teams and independently, influence others and manage conflict Interac requires employees to complete a background check that is completed by one of our service providers. We use this service to complete the following checks: 5-year employment verification; Canadian criminal record check; Education verification; Canadian ID cross-check; Public safety verification; and Credit inquiry  How we workWe know that exceptional people have great ideas and are passionate about their work. Our culture encourages excellence and actively rewards contributions with:Connection: You’re surrounded by talented people every day who are driven by their passion of a common goal.Core Values: They define us. Living them helps us be the best at what we do.Compensation & Benefits: Pay is driven by individual and corporate performance and we provide a multitude of benefits and perks.Education: To ensure you are the best at what you do we invest in you ",https://www1.communitech.ca/companies/interac/jobs/30528585-data-governance-senior-specialist#content
+Dataperformers,"Data Quality Analyst, Deloitte Global Technology  (GS-Tech Solutions (Enabling Areas & O2E)","['Toronto, ON, Canada']","['AI/ML', 'B2B', 'Media & entertainment', 'SaaS', 'Software']","['DeepTech', 'Finance', 'Information Technology', 'Software']","Job Type: Permanent 
+Reference code: 124035   
+Primary Location: Toronto, ON  
+All Available Locations: Vancouver, BC; Toronto, ON 
+
+ 
+Our Purpose
+ 
+At Deloitte, we are driven to inspire and help our people, organization, communities, and country to thrive. Our Purpose is to build a better future by accelerating and expanding access to knowledge. Purpose defines who we are and gives us reason to exist as an organization.
+ 
+By living our Purpose, we will make an impact that matters.
+ 
+
+Enjoy flexible, proactive, and practical benefits that foster a culture of well-being and connectedness. 
+Experience a firm where wellness matters.
+Be expected to share your ideas and to make them a reality
+
+
+
+
+
+--
+
+
+
+Do you thrive on developing creative and innovative insights to solve complex challenges? Want to work on next-generation, cuttingedge products and services that deliver outstanding value and that are global in vision and scope? Work with premier thought leaders in your field? Work for a world-class organization that provides an exceptional career experience with an inclusive and collaborative culture?
+ 
+
+
+
+
+What will your typical day look like?
+
+
+ 
+The Data Quality Analyst is responsible for developing procedures to enhance the accuracy and integrity of our HR data in our People Data Hub and Analytics Platform. They will partner with our Data Management and Data Engineering Teams to perform data analysis to ensure quality data across our HR data products and analytics platform. 
+ 
+Responsibilities:
+ 
+
+Write data quality scripts 
+Define data quality and validation rules
+Help define data taxonomies 
+Act as a technical data steward 
+Collaborate with Data Engineers to improve data collection, transformation, and storage 
+Create documentation and artifacts for data quality rules engine, alerting and monitoring
+Perform statistical tests on large datasets to determine data quality and integrity
+Evaluate system performance and design, as well as its effect on data quality
+Run data queries to identify coding issues and data exceptions, as well as cleaning data
+Report data analysis findings 
+Adhering to best practices in data analysis and collection
+Keeping abreast of developments and trends in data quality analysis
+
+
+
+
+
+About the team
+
+
+ 
+Deloitte Global:
+ 
+At Deloitte, we expect results. Incredible—tangible—results. And Deloitte Global professionals play a unique role in delivering those results. We reach across disciplines and borders to serve our global organization. We are the engine of Deloitte. We develop and lead global strategies and provide programs and services that unite our network. In Deloitte Global, everyone has an opportunity to lead. We see the importance of your perspective and your ability to create value. We want you to fit in—with an inclusive culture, focus on work-life fit and well-being, and a supportive, connected environment; but we also want you to stand out—with opportunities to have a strategic impact, innovate, and take the risks necessary to make your mark. Deloitte Global supports our talented professionals in answering the question: What impact will you make?
+ 
+
+Deloitte Technology works at the forefront of technology development and processes to support and protect Deloitte around the world. In this truly global environment, we operate not in ""what is"" but rather ""what can be"" to help Deloitte deliver and connect with its clients, its communities, and one another in ways not previously conceived.
+
+
+
+
+Enough about us, let’s talk about you
+
+
+ 
+You are someone with:
+ 
+
+Bachelor's degree in statistics, computer science, information management, or related field
+At least 5 years of experience in data analysis
+Proficiency in programming languages, including Structured Query Language (SQL) 
+Exceptional analytical skills
+Advanced problem-solving skills
+Knowledge of best practices in data analysis
+Excellent interpersonal and communication skills
+Experience with Visier Platform, One Model, and Azure Synapse Analytics
+	 
+
+
+
+
+ 
+Our promise to our people: Deloitte is where potential comes to life.
+ 
+Be yourself, and more.
+We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.
+You shape how we make impact.
+Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute. Be the leader you want to be.
+Be the leader you want to be 
+Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.
+Have as many careers as you want.
+We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors. Our TVP is about relationships – between leaders and their people, the firm and its people, peers, and within in our communities.
+
+The next step is yours
+ 
+At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan, Reconciliation Action Plan and the BlackNorth Initiative.
+We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations) or indigenouscareers@deloitte.ca  for any questions relating to careers for Indigenous peoples at Deloitte (First Nations, Inuit, Métis).
+By applying to this job you will be assessed against the Deloitte Global Talent Standards. We’ve designed these standards to provide our clients with a consistent and exceptional Deloitte experience globally.
+Deloitte Canada has 30 offices with representation across most of the country. We acknowledge our offices reside on traditional, treaty and unceded territories as part of Turtle Island and is still home to many First Nations, Métis, and Inuit peoples. We are all Treaty people.",https://www1.communitech.ca/companies/dataperformers/jobs/27940661-data-quality-analyst-deloitte-global-technology-gs-tech-solutions-enabling-areas-o2e#content
+Dataperformers,"Manager/Senior Manager, Risk Data and Analytics","['Toronto, ON, Canada']","['AI/ML', 'B2B', 'Media & entertainment', 'SaaS', 'Software']","['DeepTech', 'Finance', 'Information Technology', 'Software']","Job Type: Permanent 
+Reference code: 124754   
+Primary Location: Toronto, ON  
+All Available Locations: Toronto, ON; Calgary, AB; Edmonton, AB; Ottawa, ON; Vancouver, BC 
+
+ 
+Our Purpose
+ 
+At Deloitte, we are driven to inspire and help our people, organization, communities, and country to thrive. Our Purpose is to build a better future by accelerating and expanding access to knowledge. Purpose defines who we are and gives us reason to exist as an organization.
+By living our Purpose, we will make an impact that matters.
+
+Have many careers in one Firm.
+Experience a firm where wellness matters.
+Experience MyFlex where reduced hours or seasonal work allows you to meet your personal goals.
+
+
+
+
+
+
+
+
+
+
+What will your typical day look like?
+
+
+Our  mission is to use data and analytics to deliver value for our clients. Our team understands exactly how data underpins a business and how improving the management, use and insight from this data improves performance and reduces risk. We also help clients manage the new risks and safely leverage artificial intelligence and machine learning. For this role, we are seeking Manager and Senior Manager who will help deliver on our ambitious plans to grow our practice. 
+We combine our people's skills and experience, with Deloitte tools and solutions, across four focus capability areas across the end-to-end Risk Spectrum. 
+•    Risk Data Strategy & Architecture  
+•    Risk Data Modelling & Engineering 
+•    Risk Data Analytics, Reporting & Insights
+•    Risk Data Governance & Management 
+The successful candidate will have responsibility to: 
+•    Support our clients to grow responsibly through the use of applied data and analytics.
+•    Support the industry leadership in growing our risk analytics business.
+•    Support the establishment of a repeatable analytical models and approaches for clients.
+•    Work with other Deloitte functions to further the use of data & analytics in go to market activities.
+•    Manage and support team members in the delivery of work
+•    Build strong relationships with key Deloitte and client contacts.
+•    Enhance the value of our deliverables and the insights provided by our work.
+•    Support in reviews of data and date use for regulatory compliance and process and control effectiveness
+•    Work with existing clients to design and develop programs for data and analytics.
+•    Support the senior management team with go to market activities relating to risk advisory and analytics projects.
+•    Have a clear understanding of the firm's commitment to creating a more inclusive culture.
+
+
+
+
+About the team
+
+
+We are the one of the largest Risk Advisory  practices in Canada. Our Data and Analytics team is a key  capability within Risk Advisory  . We are a growing team with initiatives across multiple industries and use cases. We support organizations with all aspects of data and analytics related to risk management. We aim to bring recognized value to each engagement; be it setting up a program to deliver on long term strategic objectives or solutioning for tactical needs under demanding timelines. We have extensive experience that we draw upon daily and are always looking to the future and innovative solutions and opportunities.  
+
+
+
+
+Enough about us, let’s talk about you
+
+
+In this role, the expected qualifications are:
+ 
+•    Exceptional planning, organization, project and people management skills.
+•    Exceptional communication, presentation, business writing and professional skills, including being able to liaise with both technical and business contacts at our clients.
+•    Minimum 5 years (Manager) / 8 years (Senior Manager) of experience of managing, strengthening, and broadening key client relationships.
+•    Minimum 5 years (Manager) / 8 years (Senior Manager) of experience of managing and leading team delivery 
+•    Experience in Financial Services Industry in a consulting or industry capacity 
+•    Experience in Risk and Regulatory Compliance areas in a consulting or industry capacity
+•    Experience in delivering a broad range of data analytics engagements in areas such as, Data Strategy, Data Architecture, Data Migration, Data Analytics, Data Governance and Data Quality.
+•    Experience in applying Data Analytics, ML/AI and/or other insights approaches to deliver business value
+•    Experience in working with analytical, visualization and data engineering capabilities
+•    Experience in working with cloud capabilities is an asset
+•    Ability to own and drive initiatives in many different and challenging environments.
+•    Ability to understand client needs and deliver value through proven and innovative approaches.
+•    Ability to synthesize large amounts of information to produce clear, concise, and logical presentations and reports
+•    Ability to work in a fast paced and demanding environment, both independently and in a team setting 
+•    Ability to establish priorities and meet challenging deadlines
+•    Curiosity and comfortability with ambiguity
+•    Undergraduate or Graduate Degree in relevant field; relevant professional qualification is an asset
+•    Willingness/flexibility of traveling to client locations, as required
+ 
+
+
+
+ 
+Our promise to our people: Deloitte is where potential comes to life.
+ 
+Be yourself, and more.
+We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.
+You shape how we make impact.
+Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute. Be the leader you want to be.
+Be the leader you want to be 
+Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.
+Have as many careers as you want.
+We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors. Our TVP is about relationships – between leaders and their people, the firm and its people, peers, and within in our communities.
+
+The next step is yours
+ 
+At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan, Reconciliation Action Plan and the BlackNorth Initiative.
+We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations). We’d love to hear from you!
+By applying to this job you will be assessed against the Deloitte Global Talent Standards. We’ve designed these standards to provide our clients with a consistent and exceptional Deloitte experience globally.
+Deloitte Canada has 30 offices with representation across most of the country. We acknowledge our offices reside on traditional, treaty and unceded territories as part of Turtle Island and is still home to many First Nations, Métis, and Inuit peoples. We are all Treaty people.",https://www1.communitech.ca/companies/dataperformers/jobs/30270691-manager-senior-manager-risk-data-and-analytics#content
+Dataperformers,Entity Data Leader,"['Toronto, ON, Canada']","['AI/ML', 'B2B', 'Media & entertainment', 'SaaS', 'Software']","['DeepTech', 'Finance', 'Information Technology', 'Software']","Job Type: Permanent 
+Reference code: 124295   
+Primary Location: Toronto, ON  
+All Available Locations: Toronto, ON 
+
+ 
+Our Purpose
+ 
+At Deloitte, we are driven to inspire and help our people, organization, communities, and country to thrive. Our Purpose is to build a better future by accelerating and expanding access to knowledge. Purpose defines who we are and gives us reason to exist as an organization.
+By living our Purpose, we will make an impact that matters.
+ 
+
+Enjoy flexible, proactive, and practical benefits that foster a culture of well-being and connectedness.. 
+Experience a firm where wellness matters.
+Be expected to share your ideas and to make them a reality.
+
+
+
+
+
+--
+
+
+
+
+What will your typical day look like?
+
+
+A data entity leader ensures delivery and maintenance of a global entity mastering warehouse and governance system. They drive a team of data analysts. They  lead the entity mastering program to result in high quality entity data creation in Global MDM, a consistent end user experience across global applications, and an increased awareness of entity data quality among DMS leadership. The data leader also strategically guides planning, implementation, and management of entity data migrations to global applications, and any specialized services required by geographies or global applications. Typical tasks could include:
+
+Lead the team responsible for ensuring entity attribute and hierarchy data is high quality within global applications
+Review and support development of documentation, analysis, and reports related to data flow and issue resolution
+Establish data quality framework and approach for monitoring and measuring and drive process improvement 
+Drive a culture of continuous improvement across the team to ensure best in class results for data management best practices
+Work with the team to create and enhance metric reports as needed to show status and impact of changes
+Providing authoritative guidance regarding how essential data are consumed and shared
+Assist with communications on potential changes or updates to key stakeholders
+Work with client serving teams, Partners and other member firm experts to answer questions as needed regarding the global applications, data flow, and cause of identified challenges
+Lead partnership with system owners to convey importance of data consistency and ensure compliance across applications
+Maintain a thorough understanding of the global data model, Taxonomy & Client attributes
+Contribute to development of policy and objectives of projects and general data management
+Coordinate decision making processes with managers, sub-process owners and stakeholders
+Be proactive in identifying opportunities to expand data domain responsibilities and areas to increase impact of data management
+
+
+
+
+
+About the team
+
+
+Global CoRe provides seven fundamental services to Deloitte around the world: knowledge services, creative services, contact center, data management assessment services, data protection, procurement, and real estate. We develop new and innovative ways to improve how these services are delivered across the organization, leveraging our global scope and strength to serve our organization within and across borders.
+
+
+
+
+Enough about us, let’s talk about you
+
+
+ 
+
+Must possess a degree in Business, Computer Science, Engineering, Information Technology, Finance, Technical, Data Science, Statistics or related field
+Minimum of 7-10 years of relevant work experience in data management with demonstrated ability to analyze, interpret and explain systems and approaches for data to enable business decisions
+Experience in and knowledge of master data governance strategy, processes, and operations
+Strong change management skills, including innovation, problem solving with multiple stakeholders/MFs, leadership experience of a global team and ability to drive continuous data management quality
+Proven ability to develop strong collaborative relationships with internal stakeholders across all levels of a large, complex, and global organization
+Ability to manage teams comprised of resources ranging from onshore and offshore dedicated employees, consultants, contractors, and indirect matrixed employees
+Ability and desire to take on tough and challenging projects and handle multiple projects simultaneously
+Strong analytical, communication, and collaborative skills.  
+Experience with Informatica toolset and SQL a plus
+
+ 
+
+
+
+ 
+Our promise to our people: Deloitte is where potential comes to life.
+ 
+Be yourself, and more.
+We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.
+You shape how we make impact.
+Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute. Be the leader you want to be.
+Be the leader you want to be 
+Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.
+Have as many careers as you want.
+We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors. Our TVP is about relationships – between leaders and their people, the firm and its people, peers, and within in our communities.
+
+The next step is yours
+ 
+At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan, Reconciliation Action Plan and the BlackNorth Initiative.
+We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations) or indigenouscareers@deloitte.ca  for any questions relating to careers for Indigenous peoples at Deloitte (First Nations, Inuit, Métis).
+By applying to this job you will be assessed against the Deloitte Global Talent Standards. We’ve designed these standards to provide our clients with a consistent and exceptional Deloitte experience globally.
+Deloitte Canada has 30 offices with representation across most of the country. We acknowledge our offices reside on traditional, treaty and unceded territories as part of Turtle Island and is still home to many First Nations, Métis, and Inuit peoples. We are all Treaty people.",https://www1.communitech.ca/companies/dataperformers/jobs/28425571-entity-data-leader#content
+Index Exchange,"Director, Data Systems","['Toronto, ON, Canada']",['500+'],"['Media', 'Sales and Marketing', 'Software']","We shaped the earliest forms of ad tech, and we’re looking for the technical expertise to help shape its future. Our customers have unique problems that can only be solved at internet scale, and that’s where the technical skills of our team make a real difference.Our exchange handles over 350 billion requests every day (for comparison Google serves an estimated 9 billion searches a day), all running in our own global data centers. Every member of our technology team has an enormous amount of autonomy in building and managing our systems to support and enable our growing level of scale. Through the transparency of our technology, dedication to innovation and integrity, and long-standing customer relationships, we lead through change.What’s it like to work at Index?We have more than 550 Indexers around the globe dedicated to building a safe and transparent marketplace that provides a trusted experience for consumers.Index is an exciting and fast-paced place to work. We’re built on our values of change, support, learning and teaching, trust, and intention. We pride ourselves on our independence and openness, not only in our technology, but in our teams, too. Our diverse and inclusive culture celebrates how we can leverage our unique differences to help drive Index forward.Our culture of success is truly supportive and collaborative. In working together across our teams, we’re continually investing in the people and technology to solve the industry’s most complex problems. As we extend the promise of ad tech to every channel, we’re looking for talented engineers to help advance Index, and the industry, forward.Are you ready to join the programmatic evolution?Index Exchange funds the open web. Content and journalism across the internet are funded through advertising, and we are the engine that helps to make that happen transparently, safely and efficiently. Handling hundreds of billions of auctions per day within milliseconds requires an intense understanding of the exchange and the ecosystem that we live in.Our business is growing significantly every year and is poised to grow even faster. Our people and our platforms are the foundation and enabler of that growth. We are significantly expanding our technology teams, and are looking for technologists with a passion for high performance software development, and a drive to deliver software products and platforms that enable and empower industries at a global scale.About The Role:Join our global organization at the forefront of innovation in the Ad-Tech industry. We are seeking a skilled and visionary Director of Data Systems for our Technology Operations organization to lead our dynamic team in managing on-premise and hybrid data environments with low-latency requirements. Our company is dedicated to pushing the boundaries of technology and data-driven solutions, and we need a leader who can strategize, execute, and mentor in this fast-paced landscape.Index’s scale spans the globe, our transactions happen 24x7 in our global data centers, and every second that passes millions of requests are evaluated across our exchange. In order to achieve our mission, global efficiency and reliability are absolutely key, as every millisecond quite literally counts in our business.Here’s What You’ll be Doing:As the Director of Data Systems, you will be responsible for leading and overseeing the design, implementation, and management of Technology Operations data systems, with a strong focus on on-premise and hybrid cloud environments. Your role will be crucial in ensuring our data infrastructure meets demanding low-latency requirements while fostering innovation and growth within the team.  Strategic Planning: Develop and execute data system vision and strategies, including on-premise and hybrid cloud solutions, that align with our business goals and growth plans. Drive innovation and continuous improvement efforts to meet evolving business demands.  Technical Leadership: Leverage your deep expertise in data technologies such as Kafka, Spark, Redis, Flink, Trino/Presto, and Hadoop to lead the architecture and development of our data systems, ensuring optimal performance, reliability, and scalability.  Coaching and Performance Management: Drive performance and impact of the Data Systems division by working closely with your direct reports, SMEs and Managers who lead your projects or team. Ensure that they understand the responsibility and expectations and carry through organizational vision to achieve goals.  Team Building and Mentoring: Build and maintain a high-performing diverse team of data engineers and analysts, fostering a culture of continuous learning, collaboration, and innovation. Set Data Systems up for success by continuously improving the organizational design and ensure that teams has the right balance of skills, roles and seniority of team members. Actively participate and support your managers in recruitment and mentoring.  Global Collaboration: Role model collaboration across time zones and borders, finding ways of managing in-person and remote employees and working directly with international teams to ensure cohesive and efficient operations.  Infrastructure and Network Expertise: Develop and execute strategy for data infrastructure and network, aligning it with business objectives and growth plans. Utilize your deep expertise in infrastructure, networks, and Kubernetes to architect and drive seamless integration between data systems and the underlying infrastructure, optimizing performance and stability.  Performance Optimization: Take ownership of data system performance optimization at an enterprise scale.Implement and oversee strategies to monitor and improve data system performance, ensuring low-latency responses and high availability on petabyte scale datastores for critical business processes.  Vendor Management: Lead the evaluation, selection, and management of vendor relationships in the data technology space. Negotiate contracts, oversee vendor performance, and cultivate effective partnerships to ensure that the organization benefits from cutting-edge technologies and support staffing,  Data Governance and Security: Establish and maintain a robust data governance framework, including policies, procedures, controls and security measures to safeguard sensitive data and ensure compliance with industry standards and regulations.  Innovation and Continuous Improvement: Stay at the forefront of emerging data technologies and trends, and leverage this knowledge to drive innovation within the organization. Recommend and lead the implementation of enhancements to our data systems to maintain our competitive edge. Here's What You Need: Bachelor’s degree in Computer Science, Information Technology, or a related field; Master’s degree preferred. Proven track record of 8+ years in progressively responsible roles within data engineering, architecture, or related roles, with at least 3 years in a leadership capacity. Extensive experience with Kafka, Spark, Redis, Flink, Trino/Presto, Hadoop in complex on-premise and hybrid data environments. Strong working knowledge of infrastructure, networks, and Kubernetes and expertise in designing, deploying, and managing large-scale data infrastructure. In-depth knowledge of data governance, security best practices, and compliance requirements. Exceptional leadership and team-building skills, excellent communication, and interpersonal skills with the ability to lead and inspire a global team. Problem-solving mindset and the ability to make informed decisions under pressure. Proven project management skills, with the ability to prioritize tasks, meet deadlines, and manage multiple initiatives simultaneously. Experience in vendor management, contract negotiation, and strategic partnerships. Experience working in a global company with a combination of in-office and remote teams and a multicultural environment is a plus. Why You’ll Love Working Here: Comprehensive health, dental, and vision plans at no cost to you Time off and flexible work schedules Retirement plan with a 5% company match Stock options and equity packages Generous parental leave Monthly wellness stipend plus fitness discounts and quarterly wellness group activities Community engagement opportunities and donation-matching program Annual virtual company retreats and regular community-led team events One day off per year to volunteer  A workplace that supports a diverse, equitable, and inclusive environment – learn more here  NotificationIndex Exchange is aware that there have been recent scams directed toward candidates regarding job interviews and offers.Please be vigilant and do not accept interview requests, job offers, or other hiring-related documents from anyone other than our dedicated recruitment team, from the domain of @indexexchange.com. Our interview process consists of several steps, including phone screens and video interviews. We do not conduct interviews via an email questionnaire or request money at any point in the process.We remain dedicated to resolving this matter and we appreciate your support.Equal employment opportunityAt Index Exchange, we believe that successful products are built by teams just as diverse as the audience who uses them. As such, we are committed to equal employment opportunities. We celebrate diversity of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Additionally, we realize that diversity is deeper than any status or classification—diversity is the human experience. For those who show grit, passion, and humility—Index will welcome you.Accessibility for applicants with disabilitiesIndex Exchange is committed to working with and providing access and reasonable accommodations to applicants with disabilities. Please let us know if you’d like to request a reasonable accommodation.Index Everywhere, Index AnywhereOur corporate headquarters are in Toronto, with major offices in New York, Montreal, Kitchener, London, San Francisco, and many other global cities. As a major global advertising exchange, we are committed to operating as a tightly knit global team and embracing and empowering talent wherever our colleagues may be. #LI-CV1#LI-Hybrid",https://www1.communitech.ca/companies/index-exchange/jobs/30491244-director-data-systems#content
+Future Fertility,Machine Learning Engineer,"['Toronto, ON, Canada']","['10-49', 'AI/ML', 'B2B', 'Data & analytics', 'Medical/life sciences']","['DeepTech', 'Health', 'Software']","Who we are:
+Future Fertility is a Canadian start-up located in Toronto. We develop and market AI-enhanced software solutions in the high-growth market of Assisted Reproductive Technology (ART). We have been chosen by MaRS, North America’s largest urban innovation hub, to be showcased as one of their portfolio companies. We are trusted by some of the best IVF clinics in North America and Europe and have successfully raised a Series A financing round. The investment was led by M Ventures (the corporate venture capital arm of Merck KGaA, Darmstadt, Germany, a global fertility leader), with participation from Whitecap Venture Partners. 
+Insights yielded by this patented software technology will be invaluable to patients, clinicians, and researchers. To learn more, please visit: https://futurefertility.com/ . 
+We continue to invest in developing further solutions to deliver on our goal for radically improved levels of insight for patients and clinicians by using artificial intelligence, and in so doing, substantially improve the experience and outcomes.
+Who we are looking for:
+An experienced Machine Learning Engineer to develop our next-generation image classification tool, using machine learning and computer vision techniques. You will be implementing algorithms by fast prototyping, converting them to production models and working with the development team to deploy the solution. This position requires excellent skills with Python and its machine learning and image processing libraries.
+Working knowledge of Web development is a bonus.
+What you’ll do:
+
+Take ownership of the machine learning project from start to finish, which includes building data pipelines, designing, deploying & maintaining production quality ML models in collaboration with data scientists.
+Data Acquisition, Cleaning, and Transformation in order to prepare training datasets.
+Build, train, and evaluate image classification and segmentation models using different architectures and tools.
+Benchmark, analyze and improve performance of existing algorithms, pre-processing and data augmentation strategies.
+Turning prototyped computer vision algorithms into high performance product ready code.
+Serve deep learning based computer vision models using the latest serving technologies.
+Providing support to the dev team on integrating ML systems with our software stack.
+Participate in sprint planning, estimation and reviews and take ownership of deliverables
+Document all machine learning processes and findings in an organized manner
+
+Qualification:
+
+Bachelor or Master in Computer Science, Computer Engineering, Machine Learning, Statistics or Mathematics.
+5+ years of experience in software development and data manipulation; Expertise writing code in Python
+2+ years of experience in building and implementing production scale Machine Learning models in professional working environment
+Extensive experience in PyTorch deep learning framework
+Solid understanding of foundational statistics concepts and ML algorithms: linear/logistic regression, Random Forest, boosting, XGBM, k-NN, Naive Bayes, Decision Trees, SVM, etc.
+Good theoretical as well as practical knowledge of deep learning architectures such as LSTM, RNN and CNN and Transformer based models
+Algorithm and model development experience for large-scale applications.
+Experience running accuracy experiments and systematically improving performance.
+Familiarity with scientific computing libraries such as numpy, pandas, scikit and image processing libraries such as OpenCV and scikit-image.
+Solid understanding and practical experience of containerizing Deep Learning models for deployment purposes in a scalable manner.
+Experience with SQL and NoSQL databases and ETL tools.
+Familiarity with Git.
+Strong cross-team communication and collaboration skills. Comfortable being part of a small team of engineers working in an energetic fast paced start-up environment and effective as part of a distributed team.
+Excellent written and verbal communication skills.
+Attention to detail, data accuracy and quality of output.
+
+Bonus points for:
+
+Experience in image processing
+Prior experience in applying image enhancement and segmentation on medical images and using image processing libraries
+Have prior experience of MLOps such as MLFlow
+Background in Life Science
+Experience in privacy preserving or federated machine learning
+Research publications in ML/AI-related fields
+
+",https://www1.communitech.ca/companies/future-fertility/jobs/17987804-machine-learning-engineer#content
+Interac,Analytics Engineering Senior Specialist,"['Toronto, ON, Canada']",[],['Finance'],"Analytics Engineering, Senior SpecialistAt Interac, we design and deliver products and solutions that give Canadians control over their money so they can get more out of life. But that’s not all. Whether we’re leading real-time money movement, driving innovative commerce solutions like open payments for transit systems, or making advancements in new areas like verification and open banking, we are playing a key role in shaping the future of the digital economy in Canada.Want to make a lasting impact amongst a community of creative thinkers, problem solvers, technical gurus and high-performance application developers? We want to hear from youAre you interested in working for a company as ubiquitous to Canadians as Interac and helping provide insights on and improve products used billions of times a year? Do you like the idea of developing distributed pipelines that run on hundreds of terabytes of data? In this role you would be working closely with the Data Science, Analytics Delivery (BI) and Data Engineering teams. You would also be regularly coordinating with Platform Engineering, Security, and Risk to ensure cross-functional objectives move forward. This role is best filled by a seasoned software engineer with an interest in data science who enjoys building tools/applications and turning research into reproducible products/solutions.You’ll be responsible for:  Working with data scientists and ML engineers to turn their research and proof-of-concepts into reproducible, fault-tolerant jobs that operate efficiently and scale to meet evolving data volumes and time requirements Identifying opportunities to enhance the functionality of our enterprise data platform to improve user experience and increase the speed-to-market for our internal analytics teams and taking ownership of working with cross-functional teams to address these opportunities Developing assets and utilities that improve the productivity of other data and analytics teams, including: process automation tools, templates for common recurring analytics use-cases, exposing internal services as APIs, etc. Providing thought leadership on SLDC best practices and developing frameworks / standards that are fit-for-purpose and address key concerns / pain points from multiple stakeholders Providing subject matter expertise across our tech stack to fellow data scientists and developers Ensuring stakeholders understand the trade-offs across various implementation options and securing alignment Coordinating external dependencies and requirements for a given implementation (Security, DBA, Operations, Legal, project managers, Change Management) Ensuring that work is being done in a sustainable / maintainable manner to minimize technical debt Identifying strategic opportunities to refactor existing data products and services to address technical debt You bring:  An undergraduate degree in a quantitative field (e.g., Computer Science, Engineering, Mathematics, etc.) or equivalent work experience; our teams bring a diverse set of backgrounds and perspectives Must be eligible to work for Interac Corp. in Canada in a Full Time Capacity 2+ years working in software development or data science / data engineering teams that involved deliverables to external parties Experience writing production-grade software with upstream and downstream dependencies; we take pride writing clean, well-documented, and maintainable code Possess excellent written and oral communication skills and comfortable interfacing with stakeholders from a variety of backgrounds; we interact with both technical and non-technical audiences and value clear communication and effective storytelling Strong knowledge accessing and manipulating large amounts of data, across a variety of formats and with a variety of tools, and experience troubleshooting and turning large distributed pipelines / queries—you understand typical bottlenecks and trade-offs Familiar with fundamentals of cloud computing and common data processing paradigms; we use AWS and a variety of cloud-native services Extensive experience with Python and solid experience with PySpark; import this Interac requires employees to complete a background check that is completed by one of our service providers. We use this service to complete the following checks: 5-year employment verification; Canadian criminal record check; Education verification; Canadian ID cross-check; Public safety verification; and Credit inquiry  How we workWe know that exceptional people have great ideas and are passionate about their work. Our culture encourages excellence and actively rewards contributions with:Connection: You’re surrounded by talented people every day who are driven by their passion of a common goal.Core Values: They define us. Living them helps us be the best at what we do.Compensation & Benefits: Pay is driven by individual and corporate performance and we provide a multitude of benefits and perks.Education: To ensure you are the best at what you do we invest in you ",https://www1.communitech.ca/companies/interac/jobs/30146544-analytics-engineering-senior-specialist#content
