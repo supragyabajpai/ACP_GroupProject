@@ -1,2 +1,0 @@
-add jobs_info.csv 
-add resume_data_231228.csv
