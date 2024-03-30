@@ -10,7 +10,7 @@ To install CareerAdvisor, follow these steps:
 
 * Clone the repository:
 ```bash
-git clone [<repository_url>](https://github.com/supragyabajpai/ACP_GroupProject/tree/main/CareerAdvisor)
+git clone [https://github.com/supragyabajpai/ACP_GroupProject/tree/main/CareerAdvisor]
 ```
 
 * Create and activate a virtual environment:
