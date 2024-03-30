@@ -10,13 +10,13 @@ To install CareerAdvisor, follow these steps:
 
 * Clone the repository:
 ```bash
-git clone [https://github.com/supragyabajpai/ACP_GroupProject/tree/main/CareerAdvisor]
+git clone github.com/supragyabajpai/ACP_GroupProject/tree/main/CareerAdvisor
 ```
 
 * Create and activate a virtual environment:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate  # On Windows use `venv\Scripts\Activate`
 ```
 
 **File Structure**
