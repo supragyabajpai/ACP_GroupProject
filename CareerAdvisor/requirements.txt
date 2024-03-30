@@ -1,0 +1,7 @@
+llama_index==0.10.25
+openai==1.14.3
+pandas==2.2.1
+pyperclip==1.8.2
+pywin32==306
+streamlit==1.31.1
+streamlit==1.32.2
